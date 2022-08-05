@@ -1,0 +1,189 @@
+
+#top-header{
+    background-color:#031b33;
+    height: 60px;
+}
+
+.contact-detail{
+    padding-bottom:8px;
+    padding-top:8px;
+}
+.fa-fa-phone{
+    padding-right: 22px;
+}
+.social-detail{
+    padding-bottom:8px;
+    padding-top:8px;
+}
+.social-detail ul , .social-detail ul li{
+    list-style: none;
+    padding: 0px;
+    margin: 0px;
+}
+.social-detail ul li{
+    display: inline-block;
+    vertical-align: middle;
+}
+
+.social-detail ul li a{
+    color: #fff;
+    padding-left:20px;
+    align-items: flex-end;
+
+}
+.navbar{
+    background-color:#FFFFFF;
+    padding-bottom: 10px;
+}
+
+.navbar-company{
+    color: #000;
+    font-size: 30px;
+    font-weight: bold;
+}
+.nav-links{
+    margin: 0px;
+    padding-right: 32px;
+    padding-top: 30px;
+    color: #000000;
+}
+.nav-items{
+    padding-top: 7px;
+}
+
+.email{
+    padding-right: 22px;
+}
+.dropdown{
+    padding-bottom: 22px;
+}
+.container-details{
+    list-style: none;
+    padding: 0px;
+    margin: 0px;
+}
+.company-name{
+    font-weight: bold;
+    color: #000000;
+}
+.image-section{
+    padding-top: 32px;
+}
+.background-img{
+    background-image: url('../img/map.jpeg');
+    background-size: 100% 100%;
+    background-attachment: fixed;
+    width: 100%;
+    height: 560px;
+    opacity: 0.7;
+    
+}
+.background-img h1{
+    color: #070707;
+}
+.reportsec h2{
+padding-top: 100px;
+padding-bottom: 50px;
+}
+.reportsec{
+    padding-left: 157px;
+}
+.reportsec ul li {
+    list-style: none;
+}
+
+
+
+
+.logo{
+    padding-left: 15px;
+    padding-right: 30px;
+    padding-top: 7px;
+    background: #fff;
+   
+    box-shadow: 0px 6px 15px rgb(16 110 234 / 12%);
+    font-size: 24px;
+    color: #106eea;
+    border-radius: 70px;
+    height: 55px;
+    width: 55px;
+}
+#bottom-footer{
+    background-color: #e9f5f8;   
+    height: fit-content; 
+}
+
+.icons-detail ul li{
+    list-style: none;
+    display: inline-block;
+    vertical-align: middle;
+}
+
+.icons-detail p{
+    padding-left: 40px;
+}
+.icons-detail h5{
+    padding-left: 36px;
+}
+.icons-detail ul li{
+    padding-right: 10px;
+    margin-left: 0px;
+}
+
+.workicon{
+    list-style: none;
+    padding-left: 200px;
+    padding-bottom: 50px;
+}
+.workicon2{
+    list-style: none;
+    padding-left: 230px;
+    padding-bottom: 50px;
+}
+.block1{
+    padding-left: 100px;
+    padding-right: 100px;
+    padding-top: 100px;
+    padding-bottom: 100px;
+}
+.block2{
+    padding-left: 100px;
+    padding-right: 100px;
+    padding-top: 100px;
+    padding-bottom: 100px;
+}
+.spotlight-card h2{
+  
+    padding-left: 100px;
+    padding-bottom: 50px;
+    padding-right: 22px;
+}
+.spotlight-card1 h2{
+   
+    padding-left: 150px;
+    padding-bottom: 50px;
+   
+}
+.COMPARISON h4{
+    
+    font-weight: bolder;
+    font-size: 32px;
+    padding-left: 400px;
+    padding-bottom: 15px;
+}
+.COMPARISON p{
+    padding-left: 150px;
+    
+}
+.spotlight-card1{
+    background: #e7f1fd;
+    padding-top: 20px;
+    padding-bottom: 50px;
+    padding-left: 22px;
+}
+.spotlight-card{
+    background: #e7f1fd;
+    padding-top: 20px;
+    padding-bottom: 125px;
+    padding-left: 12px;
+}
